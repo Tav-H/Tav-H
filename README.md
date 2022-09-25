@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tav-H
 - 👀 I’m interested in python, but might have a play around with some other languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
